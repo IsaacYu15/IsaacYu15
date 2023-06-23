@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name's Isaac and I'm a System Design (SYDE) student at Waterloo!
+
+🌱 Web development (React.js, javascript)
+⚡ I love to play chess, rock climb and develop games in Unity
+
 <!--
 **IsaacYu15/IsaacYu15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
