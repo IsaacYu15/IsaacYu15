@@ -2,9 +2,6 @@
 
 My name's Isaac and I'm a System Design (SYDE) student at Waterloo!
 
-- 🌱 Web development (React.js, javascript)
-- ⚡ I love to play chess, rock climb and develop games in Unity
-
 [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacYu15)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
